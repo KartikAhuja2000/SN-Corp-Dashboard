@@ -35,7 +35,5 @@ This SN Corp Dashboard provides a comprehensive overview of key business metrics
 - Order Trends: Analyze periods with high order volumes for promotional campaigns or capacity planning to ensure timely order fulfillment.
 
 
-By leveraging this dashboard, stakeholders can make informed decisions based on comprehensive and visual data insights, ultimately driving business growth and efficiency.
-
 ![SN Corp Dashboard SC](https://github.com/user-attachments/assets/76e22a25-ea50-4c22-9523-74a09444624d)
 
